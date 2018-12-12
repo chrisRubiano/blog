@@ -1,0 +1,37 @@
+baseURL = "http://chrisrubiano.github.io/"
+languageCode = "en-us"
+title = "Cristian Samaniego"
+theme = "hermit"
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+
+[author]
+  name = "Cristian Samaniego"
+
+[taxonomies]
+  tag = "tags"
+  category = ""  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # themeColor = "#494f5c"  # Theme color in meta tags.
+  homeSubtitle = "A passionate web developer and DIY enthusiast from Hermosillo."
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/chrisrubiano"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
