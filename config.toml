@@ -1,4 +1,4 @@
-baseURL = "http://chrisrubiano.github.io/"
+baseURL = "https://chrisrubiano.github.io/"
 languageCode = "en-us"
 title = "Cristian Samaniego"
 theme = "hermit"
