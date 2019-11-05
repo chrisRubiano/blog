@@ -10,7 +10,7 @@ A passionate full stack web developer and DIY enthusiast from Hermosillo, Sonora
 
 # Professional Experience
 
-* **Soluciones Verdes** | June 2019 - Today
+* **Soluciones Verdes** | June 2019 - Present
 	* Full Stack web development using Django, Docker and PostgreSQL.
 	* An online platform for web courses and student certification.
 
@@ -38,11 +38,11 @@ A passionate full stack web developer and DIY enthusiast from Hermosillo, Sonora
 
 * **Universidad Estatal de Sonora** | September 2019
 
-	Machine Learning talk at the Software Engineering Academic Week
+	Delivered a talk on Machine Learning at the Software Engineering Academic Week
 
 * **Secretaría de Educación y Cultura - Hackathon** | 2017 - 2019
 	
-	I've had a mentorship role in Raspberry Pi hackathons for the past three years, specially python and javascript.
+	I've had a mentorship role in Raspberry Pi hackathons for the past three years, especially python and javascript.
 
 * **Universidad de Sonora** | 2015-2018
 	
